@@ -980,6 +980,12 @@ DIR: html/webappapis/dynamic-markup-insertion/document-writeln
 
 ---
 
+DIR: html/webappapis/microtask-queuing
+
+queue-microtask.window.html: [fail-slow, Unknown interaction with Mutation Observers]
+
+---
+
 DIR: html/webappapis/scripting/event-loops
 
 fully_active_document.window.html: [timeout, Unknown]
